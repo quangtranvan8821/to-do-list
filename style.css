@@ -42,6 +42,7 @@ input:focus , input:hover {
 #btn-submit:hover {
     opacity: 0.8;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 main {
@@ -83,4 +84,5 @@ main:hover > .list__item:hover{
 }
 i {
     padding: 0px 5px;
+    cursor: pointer;
 }
